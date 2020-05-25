@@ -6,3 +6,5 @@ spring:
     port: 5672
     username: admin
     password: admin
+    template:
+      exchange: remit-exchange
